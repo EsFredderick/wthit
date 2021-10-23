@@ -1,11 +1,10 @@
 # Overrides
 
-## Why
 If you have special blocks that shows itself as another block (example: facades),
 you would want that block to show the imitated block on WTHIT as well. 
 To do that, you need to register a block override provider.
 
-## How
+## Block Override
 In this example we wanted to show powder snow block as regular snow block.
 
 First create a class that implements `IBlockComponentProvider` and override the `getOverride` method.

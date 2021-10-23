@@ -35,8 +35,9 @@ edit_uri: tree/docs/src
 
 nav:
   - Configurations:
-    - Blacklisting Blocks and Entities: config/blacklisting.md
+    - config/blacklisting.md
 
   - Plugin 101:
-    - Getting Started: plugin/getting_started.md
-    - Overrides: plugin/overrides.md
+    - plugin/getting_started.md
+    - plugin/overrides.md
+    - plugin/disabling_tooltip.md
