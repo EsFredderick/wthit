@@ -32,7 +32,6 @@ repo_url: https://github.com/badasintended/wthit
 
 docs_dir: src
 edit_uri: tree/docs/src
-use_directory_urls: false
 
 nav:
   - Configurations:
